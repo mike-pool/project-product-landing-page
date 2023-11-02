@@ -1,0 +1,15 @@
+#header {
+  position: sticky;
+  top: 0px;
+}
+
+ul {
+  display: inline-flex;
+  list-style: none;
+}
+
+@media (max-width: 500px) {
+  body {
+    background: #000;
+  }
+}
